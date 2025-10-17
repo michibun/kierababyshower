@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kiera &amp; Ben's Baby Shower Invitation</title>
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/michibun/kierababyshower/refs/heads/main/You%E2%80%99re%20Invited!.png"
+        width="794"
+        height="1123"
+        border="0"
+        alt="Baby Shower invitation for Kiera & Ben"
+        style="display:block; width:794px; height:auto; max-width:100%;"
+        usemap="#invite-map"
+      >
+      <map name="invite-map">
+        <!-- REGISTRY -->
+        <area shape="rect"
+          coords="79,918,173,1054"
+          href="https://www.myregistry.com/baby-registry/benjamin-ritterbusch-and-kiera-macgregor-ottawa-on/4977990/giftlist"
+          alt="Registry" target="_blank" />
+        <!-- RSVP -->
+        <area shape="rect"
+          coords="354,904,441,1054"
+          href="https://docs.google.com/forms/d/e/1FAIpQLScvgTrcZcqP16g5mllyBmunx28QAxOVM2fuUTMeWGlYn_OdCg/viewform?usp=header"
+          alt="RSVP" target="_blank" />
+        <!-- ADD TO CALENDAR -->
+        <area shape="rect"
+          coords="568,926,746,1054"
+          href="https://calget.com/fcntlsbs"
+          alt="Add to Calendar" target="_blank" />
+      </map>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="font:14px/20px Arial, sans-serif; color:#666; padding:12px 0 0;">
+      If the buttons don’t work, use these: 
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScvgTrcZcqP16g5mllyBmunx28QAxOVM2fuUTMeWGlYn_OdCg/viewform?usp=header">RSVP</a> •
+      <a href="https://www.myregistry.com/baby-registry/benjamin-ritterbusch-and-kiera-macgregor-ottawa-on/4977990/giftlist">Registry</a> •
+      <a href="https://calget.com/fcntlsbs">Add to Calendar</a>
+    </td>
+  </tr>
+</table>
+</head>
+<body>
+  <div class="invite-wrapper">
+    <div class="invite" role="img" aria-label="Baby shower invitation for Kiera and Ben with RSVP, registry, and add to calendar buttons.">
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/waterbackground.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/yellowdrip.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/polkadots.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/yellowbox.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/flowers.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/duckling.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/pleasejoinusfora.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/babyshower.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/honouring.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/kieraandben.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/datetimeaddress.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/rsvp.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/registry.png" alt="" aria-hidden="true" />
+      <img class="layer" src="https://raw.githubusercontent.com/michibun/kierababyshower/main/addtocalendar.png" alt="" aria-hidden="true" />
+      <a class="hotspot hotspot-rsvp" href="https://docs.google.com/forms/d/e/1FAIpQLScvgTrcZcqP16g5mllyBmunx28QAxOVM2fuUTMeWGlYn_OdCg/viewform?usp=header" target="_blank" rel="noopener noreferrer" aria-label="RSVP"></a>
+      <a class="hotspot hotspot-registry" href="https://www.myregistry.com/baby-registry/benjamin-ritterbusch-and-kiera-macgregor-ottawa-on/4977990/giftlist" target="_blank" rel="noopener noreferrer" aria-label="View the baby registry"></a>
+      <a class="hotspot hotspot-calendar" href="https://calget.com/fcntlsbs" target="_blank" rel="noopener noreferrer" aria-label="Add the event to your calendar"></a>
+    </div>
+  </div>
+</body>
+</html>
